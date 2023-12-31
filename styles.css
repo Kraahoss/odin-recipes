@@ -1,0 +1,29 @@
+body {
+    font-family: "Arial", Helvetica, sans-serif;
+    background-color: rgb(255, 253, 208);
+    font-size: 16px; 
+}
+
+.header {
+    font-weight: 800;
+    background-color: coral;
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+.header.small-header {
+    font-size:30px;
+}
+
+.centre {
+    text-align: center;
+}
+
+#parent {
+    color: black;
+}
+
+.child {
+    color:red;
+}
